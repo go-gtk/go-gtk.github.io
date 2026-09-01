@@ -1,0 +1,4 @@
+baseURL = "https://go-gtk.github.io/"
+locale = "en-us"
+title = "go-gtk"
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]

@@ -1,0 +1,2 @@
+packages:
+  - { name: "gtk4", chip: "G", desc: "GTK4 bound through purego: widgets, windows, events and the main loop, with no cgo.", url: "https://github.com/go-gtk/gtk4", doc: "https://pkg.go.dev/github.com/go-gtk/gtk4" }
